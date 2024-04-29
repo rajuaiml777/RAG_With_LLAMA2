@@ -19,7 +19,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
    ```
-   git clone https://github.com/sudarshan-koirala/llama2-chat-with-documents.git
+   git clone https://github.com/rajuaiml777/RAG_With_LLAMA2.git
    cd llama2-chat-with-documents
    ```
 
